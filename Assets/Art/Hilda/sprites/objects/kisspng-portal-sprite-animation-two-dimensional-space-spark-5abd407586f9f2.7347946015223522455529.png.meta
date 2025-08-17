@@ -1,0 +1,562 @@
+fileFormatVersion: 2
+guid: 6d26e1333803d564dbb8ece37a95f693
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 700
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19faf36cf9161d42b57822b2b5b5822
+      internalID: 900017391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 666
+        width: 118
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2976536d4480c2e4a913eafb09f7a624
+      internalID: -1009750324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_2
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 641
+        width: 177
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b1ae7ae7f4ffc4dae5ae4b1e1d0fcf
+      internalID: 2105719873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_3
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 647
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31683738c6ae77240b12d5ad27758558
+      internalID: 1460240465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_4
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 618
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be4250f73096b04489f57ba00aaf86a
+      internalID: -1268023724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 610
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3f8382e15fdf5409b8b3272ce496a3
+      internalID: -857445996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 443
+        width: 161
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9a5b3c21ddeb34f96339e1f9150af5
+      internalID: 210638516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_7
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 446
+        width: 155
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bca3648d506a44685cc629543ab01e
+      internalID: 1704837897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_8
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 594
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e143588ebd9d641a419987411f4d52
+      internalID: 69958114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_9
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 444
+        width: 159
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fd819457d0f984595af3483f4ecf96
+      internalID: -803340521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_10
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 441
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977a6d804df246b4ca2f26568facefcc
+      internalID: 1008264229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_11
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 563
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25335309e976ed46ba64e8066e8c6e0
+      internalID: 1799849150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 233
+        width: 169
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4c74a3b68b0ab4e919ff268253b087
+      internalID: -46453115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_13
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 231
+        width: 173
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a263cdce266444c46af6aac45ae92221
+      internalID: 130236683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_14
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 229
+        width: 177
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc27ec7c9e75274aaeeeb8592db81e0
+      internalID: 91149689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_15
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 223
+        width: 177
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fac1958b408fd44d8266f4d5b327320
+      internalID: 570967132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 177
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fbdd0d5045f23478a02cd4ad398af0
+      internalID: -1743998212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_17
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 29
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded894dc2665d174483b0f9d8e214434
+      internalID: -1867015289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_18
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 32
+        width: 158
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5996ca16e34fabb449ce064ecccf41a0
+      internalID: 1883822151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_19
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000c15864e22fa249a91fb5ce5e98a16
+      internalID: 806659783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kisspng-portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_19: 806659783
+      kisspng-portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_14: 91149689
+      kisspng-portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_4: -1268023724
+      kisspng-portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_9: -803340521
+      kisspng-portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_17: -1867015289
+      kisspng-portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_1: -1009750324
+      kisspng-portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_11: 1799849150
+      kisspng-portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_15: 570967132
+      kisspng-portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_3: 1460240465
+      kisspng-portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_10: 1008264229
+      kisspng-portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_18: 1883822151
+      kisspng-portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_0: 900017391
+      kisspng-portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_12: -46453115
+      kisspng-portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_6: 210638516
+      kisspng-portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_16: -1743998212
+      kisspng-portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_7: 1704837897
+      kisspng-portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_2: 2105719873
+      kisspng-portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_13: 130236683
+      kisspng-portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_5: -857445996
+      kisspng-portal-sprite-animation-two-dimensional-space-spark-5abd407586f9f2.7347946015223522455529_8: 69958114
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

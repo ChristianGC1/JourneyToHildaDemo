@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Heal
+  - Gold
+  - Arrow
+  - Bow
+  - Boss
+  - RedEnemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Obstacles
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Layer 1
+  - Layer 2
+  - Layer 3
+  - EnemyOne
+  - EnemyTwo
+  - BossEnemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Layer 1
+    uniqueID: 2425651459
+    locked: 0
+  - name: EnemyOne
+    uniqueID: 4170754285
+    locked: 0
+  - name: EnemyTwo
+    uniqueID: 1056950309
+    locked: 0
+  - name: BossEnemy
+    uniqueID: 3974926821
+    locked: 0
+  - name: Player
+    uniqueID: 2869488559
+    locked: 0
+  - name: Layer 2
+    uniqueID: 4250941897
+    locked: 0
+  - name: Layer 3
+    uniqueID: 4189426099
+    locked: 0
+  - name: Walls
+    uniqueID: 2979876283
+    locked: 0
